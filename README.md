@@ -22,6 +22,7 @@ Every entry is verified against its GitHub repo (source actually present, OSI li
 | Tau | [huggingface/tau](https://github.com/huggingface/tau) | MIT | Hugging Face's Python port of Pi's minimalist coding agent. |
 | DeepSeek Harness | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | MIT | DeepSeek's open-source agent harness ("everything is a plugin"); CLI + web UI. Developer preview. |
 | bb | [get-bb/bb](https://github.com/get-bb/bb) | MIT | Agentic IDE that builds itself; desktop/web/CLI/API surfaces, orchestrates other coding agents. |
+| fx | [vercel-labs/fx](https://github.com/vercel-labs/fx) | Apache-2.0 | Tiny, open, embeddable, native coding agent from Vercel Labs (~6 MB binary). [fx.sh](https://fx.sh) |
 
 The machine-readable version of this table is [`agents.tsv`](agents.tsv) — that's what the clone script reads.
 
