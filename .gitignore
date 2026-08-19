@@ -1,0 +1,4 @@
+# Cloned agents live here — never commit them
+agents/
+
+.DS_Store

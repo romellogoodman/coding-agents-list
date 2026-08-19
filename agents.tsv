@@ -1,0 +1,15 @@
+# name	repo	license	description
+opencode	https://github.com/anomalyco/opencode	MIT	Terminal-first TUI coding agent; 75+ providers, LSP, MCP (formerly sst/opencode)
+codex	https://github.com/openai/codex	Apache-2.0	OpenAI's local coding agent for the terminal (Rust, sandboxed)
+gemini-cli	https://github.com/google-gemini/gemini-cli	Apache-2.0	Google's terminal agent for Gemini; MCP, search grounding, free tier
+pi	https://github.com/earendil-works/pi	MIT	Minimal agent toolkit + coding CLI: unified LLM API, agent loop, TUI (formerly badlogic/pi-mono)
+aider	https://github.com/Aider-AI/aider	Apache-2.0	AI pair programming in the terminal; git-native multi-file edits
+deepagents	https://github.com/langchain-ai/deepagents	MIT	LangChain's batteries-included agent harness with a coding CLI
+qwen-code	https://github.com/QwenLM/qwen-code	Apache-2.0	Alibaba's terminal agent tuned for Qwen coder models (Gemini CLI fork)
+grok-build	https://github.com/xai-org/grok-build	Apache-2.0	xAI's coding agent harness with a fullscreen, mouse-interactive TUI
+prime-agent	https://github.com/PrimeIntellect-ai/prime-agent	MIT	Self-improving RLM agent for coding workflows and long autonomous runs
+kimi-cli	https://github.com/MoonshotAI/kimi-cli	Apache-2.0	Moonshot AI's CLI coding agent; skills + MCP
+mistral-vibe	https://github.com/mistralai/mistral-vibe	Apache-2.0	Mistral's minimal CLI coding agent
+tau	https://github.com/huggingface/tau	MIT	Hugging Face's Python port of Pi's minimalist coding agent
+deepseek-harness	https://github.com/deepseek-ai/deepseek-harness	MIT	DeepSeek's open-source agent harness ("everything is a plugin"); CLI + web UI, developer preview
+bb	https://github.com/get-bb/bb	MIT	Agentic IDE that builds itself; desktop/web/CLI/API surfaces, orchestrates other coding agents
